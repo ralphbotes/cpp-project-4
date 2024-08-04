@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a follow-up to the previous project available at [https://github.com/ralphbotes/cpp-project-2](cpp-project-2). It demonstrates how to manage student records using C++. This project involves overloading the stream extraction (`>>`) and insertion (`<<`) operators for a `Student` class, reading data from a file, and calculating weighted averages.
+This project is a follow-up to the previous project available at [cpp-project-2](https://github.com/ralphbotes/cpp-project-2). It demonstrates how to manage student records using C++. This project involves overloading the stream extraction (`>>`) and insertion (`<<`) operators for a `Student` class, reading data from a file, and calculating weighted averages.
 
 ## Requirements
 
