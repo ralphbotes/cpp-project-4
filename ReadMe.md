@@ -16,11 +16,13 @@ This project is a follow-up to the previous project available at [cpp-project-2]
 3. **Data:**
    The `Student.dat` file should contain the following records:
 
+   ```txt
     Peter Pan 5 3 45 51
     Wendy Hill 7 5 63 58
     Alice Mokgaba 8 6 51 67
     Precious Petersen 5 7 49 46
     Thumi Tebogo 4 7 69 65
+    ```
 
 4. **Calculations:**
 - Compute the weighted average for each student.
